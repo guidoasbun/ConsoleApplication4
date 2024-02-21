@@ -6,6 +6,9 @@
 int main()
 {
     std::cout << "Hello There!\n";
+    std::cout << "General Kenobi!\n";
+    std::cout << "You are a bold one!\n";
+    std::cout << "I have been trained in your Jedi arts by Count Dooku!\n";
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
